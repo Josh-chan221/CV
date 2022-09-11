@@ -1,0 +1,41 @@
+body {
+  background-color: #FFFAE7;
+}
+
+hr {
+  border-style: none;
+  border-top:5px dotted;
+  color: #1C6758;
+  width: 5%;
+  opacity: 0.5;
+}
+
+h1 {
+  color: #1C6758;
+}
+
+h3{
+  color: #1C6758;
+}
+
+.profilepic{
+  border-radius: 100%;
+}
+
+.jcm{
+  border-radius: 8px;
+  height: 50%;
+  width: 50%;
+}
+
+.tmac{
+  border-radius: 8px;
+  width: 50%;
+  height: 50%;
+}
+
+.chester{
+  border-radius: 8px;
+  width: 50%;
+  height: 50%;
+}
